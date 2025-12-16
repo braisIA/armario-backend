@@ -1,0 +1,601 @@
+id,season,weather_condition,temperature,activity,mood,formality_level
+1,primavera,templado,17.4,cita_romantica,relajado,5
+2,primavera,lluvia ligera,14.5,cita_romantica,romantico,3
+3,primavera,lluvia ligera,24.0,evento_formal,creativo,5
+4,otonio,lluvia,21.0,cita_romantica,creativo,3
+5,primavera,templado,20.8,senderismo,relajado,1
+6,verano,alta_humedad,27.7,cita_romantica,romantico,5
+7,primavera,templado,21.1,deporte,energico,1
+8,invierno,frio,5.4,casual_paseo,cansado,2
+9,otonio,viento,9.0,deporte,formal,1
+10,primavera,templado,14.4,viaje,creativo,1
+11,primavera,lluvia ligera,19.4,comida_cena,relajado,3
+12,invierno,frio,-4.0,relax_en_casa,creativo,1
+13,invierno,lluvioso,1.4,trabajo_oficina,formal,2
+14,primavera,templado,18.2,deporte,creativo,2
+15,verano,caluroso,28.4,cita_romantica,romantico,4
+16,invierno,lluvioso,8.0,deporte,formal,1
+17,verano,soleado,31.5,deporte,romantico,2
+18,invierno,frio,-3.7,comida_cena,formal,3
+19,verano,soleado,27.1,relax_en_casa,romantico,2
+20,invierno,lluvioso,2.5,cita_romantica,formal,3
+21,otonio,fresco,20.7,evento_formal,romantico,5
+22,invierno,lluvioso,10.2,deporte,relajado,2
+23,otonio,fresco,21.5,fiesta_nocturna,formal,3
+24,verano,alta_humedad,37.4,viaje,creativo,3
+25,invierno,lluvioso,11.1,relax_en_casa,cansado,2
+26,invierno,lluvioso,8.4,trabajo_oficina,creativo,2
+27,verano,soleado,34.9,deporte,energico,2
+28,otonio,fresco,18.7,relax_en_casa,formal,2
+29,primavera,lluvia ligera,23.9,relax_en_casa,relajado,1
+30,verano,alta_humedad,23.5,senderismo,energico,1
+31,primavera,lluvia ligera,16.6,cita_romantica,energico,4
+32,primavera,soleado,14.9,cita_romantica,creativo,5
+33,otonio,lluvia,20.9,comida_cena,formal,2
+34,otonio,viento,8.2,viaje,relajado,2
+35,verano,caluroso,23.9,senderismo,relajado,1
+36,verano,caluroso,31.1,cita_romantica,romantico,3
+37,otonio,viento,8.7,fiesta_nocturna,energico,4
+38,verano,caluroso,34.2,casual_paseo,creativo,2
+39,verano,soleado,29.5,deporte,energico,1
+40,invierno,lluvioso,7.1,fiesta_nocturna,romantico,5
+41,invierno,frio,9.0,deporte,romantico,2
+42,otonio,lluvia,13.3,cita_romantica,creativo,4
+43,primavera,lluvia ligera,21.2,evento_formal,formal,4
+44,invierno,frio,-2.5,senderismo,romantico,2
+45,invierno,lluvioso,8.9,comida_cena,formal,2
+46,otonio,viento,16.3,fiesta_nocturna,romantico,3
+47,otonio,viento,16.3,trabajo_oficina,formal,2
+48,verano,caluroso,28.8,viaje,romantico,2
+49,verano,alta_humedad,22.8,senderismo,energico,1
+50,invierno,lluvioso,3.8,gimnasio,romantico,1
+51,primavera,soleado,16.4,gimnasio,cansado,2
+52,verano,soleado,33.8,senderismo,cansado,1
+53,otonio,lluvia,18.1,evento_formal,relajado,5
+54,otonio,viento,9.6,evento_formal,energico,5
+55,primavera,lluvia ligera,16.5,fiesta_nocturna,energico,5
+56,verano,soleado,24.4,gimnasio,creativo,1
+57,verano,soleado,34.3,evento_formal,cansado,4
+58,verano,alta_humedad,33.5,viaje,creativo,3
+59,primavera,lluvia ligera,14.0,trabajo_oficina,formal,4
+60,verano,alta_humedad,24.3,cita_romantica,romantico,4
+61,primavera,soleado,14.5,comida_cena,formal,4
+62,primavera,lluvia ligera,18.5,viaje,energico,2
+63,otonio,lluvia,20.2,relax_en_casa,cansado,1
+64,verano,soleado,31.8,cita_romantica,cansado,4
+65,primavera,lluvia ligera,23.6,evento_formal,formal,3
+66,otonio,viento,17.9,trabajo_oficina,romantico,4
+67,invierno,frio,10.6,relax_en_casa,energico,1
+68,primavera,templado,17.4,deporte,relajado,1
+69,primavera,templado,17.5,fiesta_nocturna,creativo,4
+70,primavera,templado,17.3,cita_romantica,relajado,4
+71,otonio,lluvia,15.7,fiesta_nocturna,cansado,4
+72,otonio,fresco,19.4,gimnasio,cansado,1
+73,otonio,fresco,18.7,casual_paseo,formal,1
+74,verano,caluroso,23.5,viaje,relajado,2
+75,invierno,nieve,10.5,evento_formal,relajado,3
+76,otonio,fresco,13.0,deporte,romantico,1
+77,otonio,lluvia,11.1,comida_cena,formal,2
+78,otonio,fresco,9.3,trabajo_oficina,formal,2
+79,primavera,lluvia ligera,17.8,casual_paseo,creativo,3
+80,invierno,lluvioso,-3.5,deporte,formal,1
+81,otonio,fresco,17.0,comida_cena,creativo,3
+82,primavera,lluvia ligera,13.9,casual_paseo,energico,2
+83,verano,alta_humedad,23.8,viaje,creativo,1
+84,verano,alta_humedad,23.4,comida_cena,creativo,4
+85,verano,caluroso,25.7,trabajo_oficina,formal,3
+86,otonio,lluvia,16.7,relax_en_casa,energico,2
+87,verano,alta_humedad,27.5,gimnasio,romantico,1
+88,verano,caluroso,36.7,relax_en_casa,energico,2
+89,invierno,nieve,11.2,trabajo_oficina,energico,2
+90,verano,soleado,22.7,fiesta_nocturna,formal,5
+91,primavera,lluvia ligera,14.4,viaje,cansado,2
+92,verano,caluroso,33.3,deporte,cansado,1
+93,invierno,lluvioso,-0.8,casual_paseo,formal,1
+94,verano,soleado,27.2,evento_formal,energico,4
+95,invierno,frio,5.7,evento_formal,relajado,4
+96,verano,soleado,22.2,comida_cena,cansado,4
+97,otonio,fresco,19.2,deporte,creativo,2
+98,verano,alta_humedad,36.9,trabajo_oficina,romantico,3
+99,verano,soleado,28.6,gimnasio,relajado,1
+100,otonio,fresco,12.8,comida_cena,formal,3
+101,verano,caluroso,24.1,fiesta_nocturna,formal,5
+102,otonio,fresco,21.9,viaje,energico,2
+103,otonio,viento,11.9,evento_formal,relajado,5
+104,primavera,lluvia ligera,23.1,gimnasio,formal,2
+105,invierno,lluvioso,9.9,relax_en_casa,creativo,1
+106,verano,caluroso,34.8,cita_romantica,relajado,5
+107,primavera,templado,20.4,trabajo_oficina,romantico,4
+108,verano,soleado,31.5,comida_cena,creativo,2
+109,otonio,fresco,15.4,fiesta_nocturna,creativo,5
+110,verano,soleado,22.7,gimnasio,romantico,1
+111,invierno,nieve,9.9,deporte,formal,2
+112,invierno,lluvioso,9.5,relax_en_casa,romantico,1
+113,verano,alta_humedad,28.0,trabajo_oficina,relajado,3
+114,invierno,nieve,6.2,comida_cena,romantico,4
+115,invierno,lluvioso,2.1,fiesta_nocturna,romantico,5
+116,invierno,frio,-2.4,evento_formal,formal,3
+117,invierno,frio,0.9,gimnasio,energico,1
+118,verano,alta_humedad,22.2,fiesta_nocturna,romantico,5
+119,verano,alta_humedad,33.4,gimnasio,energico,2
+120,invierno,frio,5.8,casual_paseo,formal,3
+121,otonio,lluvia,19.7,gimnasio,creativo,2
+122,otonio,viento,15.9,senderismo,formal,2
+123,verano,caluroso,34.1,gimnasio,creativo,1
+124,verano,caluroso,36.9,trabajo_oficina,romantico,2
+125,invierno,frio,-1.8,trabajo_oficina,formal,3
+126,otonio,fresco,17.0,trabajo_oficina,formal,3
+127,verano,alta_humedad,26.6,evento_formal,relajado,3
+128,invierno,lluvioso,10.4,viaje,cansado,1
+129,primavera,lluvia ligera,14.0,gimnasio,relajado,2
+130,verano,alta_humedad,29.5,gimnasio,formal,1
+131,otonio,viento,11.4,relax_en_casa,relajado,2
+132,verano,alta_humedad,32.9,viaje,formal,3
+133,otonio,lluvia,10.3,relax_en_casa,cansado,2
+134,invierno,nieve,1.3,comida_cena,creativo,3
+135,otonio,fresco,21.5,trabajo_oficina,cansado,2
+136,invierno,frio,-4.1,gimnasio,formal,1
+137,primavera,lluvia ligera,19.3,deporte,romantico,1
+138,otonio,lluvia,19.9,casual_paseo,romantico,2
+139,otonio,lluvia,12.5,evento_formal,creativo,5
+140,otonio,viento,17.8,trabajo_oficina,romantico,2
+141,primavera,lluvia ligera,17.5,gimnasio,romantico,2
+142,otonio,fresco,21.9,senderismo,cansado,1
+143,invierno,frio,9.5,gimnasio,romantico,2
+144,verano,alta_humedad,33.3,fiesta_nocturna,cansado,4
+145,otonio,lluvia,12.2,comida_cena,romantico,3
+146,otonio,fresco,14.1,cita_romantica,cansado,4
+147,otonio,fresco,14.2,trabajo_oficina,creativo,3
+148,otonio,viento,16.7,deporte,cansado,2
+149,invierno,nieve,-0.4,deporte,romantico,2
+150,primavera,templado,13.8,viaje,energico,2
+151,otonio,lluvia,21.7,viaje,creativo,2
+152,primavera,templado,16.9,fiesta_nocturna,energico,4
+153,primavera,lluvia ligera,19.7,comida_cena,creativo,3
+154,primavera,lluvia ligera,18.0,comida_cena,energico,2
+155,otonio,lluvia,15.1,evento_formal,energico,5
+156,primavera,soleado,14.0,relax_en_casa,relajado,1
+157,otonio,lluvia,8.2,viaje,formal,1
+158,verano,alta_humedad,26.3,viaje,cansado,2
+159,otonio,viento,12.5,gimnasio,formal,1
+160,otonio,fresco,12.4,gimnasio,cansado,2
+161,verano,soleado,29.8,viaje,formal,3
+162,verano,caluroso,26.4,trabajo_oficina,creativo,2
+163,primavera,lluvia ligera,13.8,evento_formal,romantico,3
+164,invierno,nieve,5.6,cita_romantica,creativo,5
+165,verano,soleado,37.0,casual_paseo,romantico,2
+166,otonio,lluvia,19.3,fiesta_nocturna,creativo,4
+167,primavera,lluvia ligera,12.2,fiesta_nocturna,formal,4
+168,invierno,nieve,7.1,viaje,cansado,1
+169,primavera,soleado,18.9,cita_romantica,romantico,5
+170,primavera,soleado,15.3,fiesta_nocturna,cansado,4
+171,otonio,viento,18.2,gimnasio,romantico,1
+172,verano,alta_humedad,30.4,fiesta_nocturna,relajado,5
+173,primavera,lluvia ligera,17.0,comida_cena,romantico,2
+174,primavera,lluvia ligera,15.3,gimnasio,energico,2
+175,verano,alta_humedad,26.4,deporte,creativo,1
+176,verano,soleado,26.5,evento_formal,romantico,3
+177,invierno,nieve,-0.8,evento_formal,romantico,5
+178,otonio,lluvia,13.1,relax_en_casa,energico,1
+179,verano,soleado,26.8,gimnasio,formal,1
+180,otonio,lluvia,8.3,casual_paseo,romantico,3
+181,primavera,lluvia ligera,18.5,deporte,romantico,1
+182,invierno,frio,-4.5,cita_romantica,relajado,3
+183,primavera,templado,20.4,trabajo_oficina,energico,3
+184,verano,alta_humedad,30.2,comida_cena,romantico,3
+185,primavera,lluvia ligera,19.8,evento_formal,relajado,3
+186,verano,alta_humedad,22.7,gimnasio,energico,1
+187,primavera,soleado,19.0,fiesta_nocturna,relajado,4
+188,invierno,frio,3.3,comida_cena,relajado,4
+189,invierno,frio,-2.8,evento_formal,relajado,3
+190,otonio,lluvia,9.8,relax_en_casa,creativo,2
+191,primavera,lluvia ligera,12.6,relax_en_casa,cansado,1
+192,verano,caluroso,34.7,trabajo_oficina,cansado,2
+193,otonio,lluvia,19.7,gimnasio,formal,2
+194,primavera,templado,21.7,senderismo,romantico,2
+195,primavera,soleado,21.5,comida_cena,cansado,4
+196,verano,alta_humedad,34.0,relax_en_casa,formal,2
+197,otonio,viento,15.1,viaje,cansado,2
+198,verano,alta_humedad,33.2,cita_romantica,cansado,5
+199,primavera,templado,17.3,deporte,romantico,2
+200,otonio,viento,13.3,cita_romantica,relajado,5
+201,verano,alta_humedad,28.9,cita_romantica,romantico,5
+202,primavera,soleado,19.1,viaje,cansado,2
+203,invierno,nieve,4.2,gimnasio,formal,2
+204,otonio,lluvia,19.8,deporte,creativo,2
+205,verano,alta_humedad,25.6,relax_en_casa,formal,2
+206,otonio,viento,10.4,trabajo_oficina,formal,3
+207,primavera,lluvia ligera,24.8,senderismo,energico,1
+208,otonio,fresco,9.6,casual_paseo,relajado,2
+209,verano,soleado,22.5,senderismo,creativo,1
+210,primavera,lluvia ligera,16.3,casual_paseo,relajado,1
+211,invierno,nieve,10.5,deporte,formal,1
+212,verano,caluroso,37.9,fiesta_nocturna,cansado,5
+213,verano,caluroso,33.5,relax_en_casa,romantico,1
+214,otonio,lluvia,10.1,cita_romantica,energico,4
+215,verano,alta_humedad,32.4,evento_formal,formal,3
+216,otonio,fresco,20.4,fiesta_nocturna,relajado,5
+217,otonio,lluvia,8.1,cita_romantica,relajado,3
+218,primavera,templado,15.0,gimnasio,romantico,2
+219,invierno,lluvioso,0.8,viaje,formal,2
+220,verano,caluroso,33.8,relax_en_casa,romantico,2
+221,primavera,templado,14.2,deporte,formal,1
+222,verano,soleado,22.3,senderismo,creativo,1
+223,otonio,lluvia,9.7,relax_en_casa,relajado,1
+224,primavera,lluvia ligera,19.4,cita_romantica,energico,5
+225,invierno,lluvioso,10.2,casual_paseo,energico,1
+226,primavera,lluvia ligera,18.0,gimnasio,romantico,2
+227,primavera,templado,13.6,trabajo_oficina,cansado,4
+228,otonio,lluvia,11.0,cita_romantica,romantico,4
+229,primavera,soleado,15.5,comida_cena,relajado,4
+230,primavera,templado,16.9,senderismo,energico,2
+231,primavera,soleado,22.9,relax_en_casa,creativo,1
+232,otonio,fresco,21.9,viaje,relajado,1
+233,primavera,lluvia ligera,16.5,deporte,creativo,1
+234,verano,caluroso,23.8,viaje,romantico,2
+235,otonio,lluvia,13.0,casual_paseo,romantico,3
+236,primavera,soleado,24.1,comida_cena,cansado,2
+237,otonio,viento,14.9,senderismo,energico,2
+238,invierno,frio,1.3,deporte,formal,2
+239,primavera,soleado,14.2,senderismo,relajado,2
+240,verano,caluroso,33.5,fiesta_nocturna,romantico,5
+241,invierno,nieve,-3.4,gimnasio,energico,2
+242,verano,alta_humedad,29.7,viaje,formal,1
+243,otonio,fresco,12.5,senderismo,creativo,1
+244,primavera,templado,18.4,relax_en_casa,energico,1
+245,invierno,lluvioso,3.7,cita_romantica,romantico,4
+246,verano,soleado,34.5,comida_cena,creativo,2
+247,otonio,fresco,8.7,cita_romantica,energico,3
+248,verano,caluroso,28.0,casual_paseo,romantico,3
+249,verano,alta_humedad,28.7,fiesta_nocturna,cansado,3
+250,invierno,nieve,-3.1,senderismo,relajado,1
+251,otonio,fresco,8.1,deporte,formal,2
+252,otonio,fresco,10.2,viaje,relajado,3
+253,primavera,lluvia ligera,19.8,cita_romantica,energico,5
+254,primavera,lluvia ligera,21.1,comida_cena,formal,4
+255,primavera,soleado,18.3,viaje,relajado,2
+256,verano,soleado,37.1,trabajo_oficina,cansado,4
+257,primavera,soleado,21.0,relax_en_casa,cansado,1
+258,otonio,fresco,8.6,trabajo_oficina,cansado,2
+259,primavera,templado,21.7,senderismo,energico,1
+260,verano,alta_humedad,22.4,evento_formal,relajado,3
+261,verano,alta_humedad,26.4,evento_formal,relajado,3
+262,invierno,lluvioso,9.0,relax_en_casa,romantico,1
+263,primavera,lluvia ligera,19.8,casual_paseo,creativo,2
+264,invierno,lluvioso,-5.0,viaje,energico,1
+265,verano,caluroso,23.3,senderismo,cansado,2
+266,primavera,lluvia ligera,15.5,evento_formal,energico,3
+267,invierno,lluvioso,10.2,viaje,cansado,2
+268,verano,caluroso,27.3,cita_romantica,energico,3
+269,verano,alta_humedad,35.9,cita_romantica,formal,3
+270,invierno,lluvioso,9.5,fiesta_nocturna,energico,4
+271,primavera,lluvia ligera,24.0,casual_paseo,energico,1
+272,primavera,templado,23.7,cita_romantica,creativo,4
+273,primavera,lluvia ligera,23.5,gimnasio,energico,1
+274,invierno,nieve,-0.8,fiesta_nocturna,formal,3
+275,otonio,lluvia,20.3,senderismo,formal,2
+276,verano,alta_humedad,27.6,comida_cena,cansado,3
+277,primavera,templado,20.3,gimnasio,formal,2
+278,verano,alta_humedad,31.1,casual_paseo,formal,3
+279,invierno,frio,3.6,casual_paseo,formal,2
+280,otonio,viento,18.3,senderismo,romantico,1
+281,primavera,templado,24.6,deporte,creativo,1
+282,verano,alta_humedad,24.9,gimnasio,energico,1
+283,otonio,fresco,14.3,evento_formal,cansado,5
+284,verano,caluroso,24.3,deporte,energico,2
+285,primavera,lluvia ligera,16.9,relax_en_casa,relajado,2
+286,primavera,templado,24.3,relax_en_casa,formal,1
+287,otonio,viento,18.3,deporte,relajado,2
+288,primavera,templado,22.0,evento_formal,romantico,4
+289,primavera,soleado,18.7,casual_paseo,energico,2
+290,otonio,fresco,18.1,senderismo,formal,1
+291,verano,caluroso,22.7,fiesta_nocturna,energico,4
+292,primavera,soleado,22.4,casual_paseo,cansado,1
+293,invierno,lluvioso,6.8,relax_en_casa,formal,2
+294,verano,alta_humedad,26.0,senderismo,energico,1
+295,verano,caluroso,27.7,gimnasio,relajado,1
+296,invierno,nieve,-3.6,casual_paseo,romantico,1
+297,otonio,viento,9.4,cita_romantica,romantico,3
+298,invierno,nieve,10.5,gimnasio,creativo,1
+299,primavera,soleado,21.9,evento_formal,relajado,5
+300,otonio,lluvia,19.6,deporte,formal,2
+301,invierno,nieve,4.3,cita_romantica,cansado,5
+302,verano,caluroso,29.6,cita_romantica,formal,5
+303,verano,caluroso,30.0,relax_en_casa,formal,1
+304,invierno,nieve,4.1,senderismo,energico,2
+305,otonio,fresco,18.6,senderismo,creativo,2
+306,verano,soleado,23.8,casual_paseo,energico,3
+307,invierno,nieve,-0.7,deporte,energico,1
+308,verano,alta_humedad,24.4,viaje,creativo,2
+309,verano,alta_humedad,32.6,fiesta_nocturna,romantico,3
+310,primavera,lluvia ligera,22.4,casual_paseo,energico,3
+311,invierno,lluvioso,11.8,relax_en_casa,romantico,2
+312,invierno,frio,9.3,viaje,formal,1
+313,invierno,lluvioso,6.7,casual_paseo,formal,1
+314,invierno,lluvioso,2.3,cita_romantica,relajado,4
+315,verano,caluroso,26.4,comida_cena,energico,2
+316,invierno,lluvioso,3.5,gimnasio,relajado,1
+317,otonio,fresco,20.0,gimnasio,energico,1
+318,verano,soleado,24.5,comida_cena,cansado,3
+319,invierno,lluvioso,5.0,relax_en_casa,relajado,1
+320,otonio,lluvia,20.9,cita_romantica,creativo,5
+321,primavera,soleado,19.5,senderismo,creativo,2
+322,otonio,lluvia,13.2,comida_cena,relajado,4
+323,otonio,viento,11.3,comida_cena,energico,2
+324,otonio,lluvia,8.2,casual_paseo,energico,2
+325,invierno,nieve,5.1,deporte,energico,2
+326,otonio,viento,19.5,viaje,cansado,2
+327,otonio,fresco,13.2,cita_romantica,relajado,4
+328,verano,alta_humedad,32.7,relax_en_casa,cansado,2
+329,verano,alta_humedad,25.6,casual_paseo,energico,3
+330,invierno,lluvioso,9.3,fiesta_nocturna,creativo,5
+331,otonio,viento,13.1,gimnasio,formal,1
+332,invierno,frio,-0.1,viaje,creativo,2
+333,invierno,nieve,11.3,evento_formal,relajado,4
+334,invierno,lluvioso,5.2,trabajo_oficina,creativo,4
+335,primavera,templado,15.7,evento_formal,energico,4
+336,otonio,lluvia,10.3,evento_formal,energico,5
+337,verano,alta_humedad,29.8,senderismo,formal,1
+338,verano,caluroso,28.3,trabajo_oficina,cansado,4
+339,primavera,soleado,20.4,relax_en_casa,creativo,1
+340,invierno,lluvioso,-1.1,casual_paseo,cansado,3
+341,primavera,soleado,20.5,gimnasio,energico,1
+342,otonio,lluvia,8.4,viaje,formal,1
+343,otonio,lluvia,9.4,relax_en_casa,cansado,1
+344,verano,caluroso,31.6,viaje,energico,2
+345,otonio,lluvia,19.5,senderismo,creativo,2
+346,verano,caluroso,29.6,trabajo_oficina,creativo,2
+347,primavera,soleado,14.9,comida_cena,romantico,4
+348,invierno,nieve,10.0,fiesta_nocturna,creativo,4
+349,invierno,nieve,10.8,gimnasio,formal,2
+350,verano,alta_humedad,36.8,cita_romantica,romantico,4
+351,invierno,lluvioso,0.7,fiesta_nocturna,relajado,4
+352,primavera,lluvia ligera,13.2,viaje,creativo,1
+353,otonio,lluvia,16.5,fiesta_nocturna,cansado,5
+354,verano,soleado,28.0,casual_paseo,cansado,3
+355,otonio,lluvia,21.7,viaje,formal,1
+356,verano,alta_humedad,27.8,cita_romantica,romantico,5
+357,otonio,lluvia,16.5,casual_paseo,romantico,3
+358,otonio,lluvia,9.7,deporte,energico,2
+359,primavera,templado,12.1,viaje,cansado,3
+360,invierno,lluvioso,-2.1,viaje,energico,3
+361,otonio,lluvia,19.0,relax_en_casa,relajado,1
+362,invierno,frio,5.1,evento_formal,creativo,5
+363,invierno,lluvioso,1.4,cita_romantica,cansado,5
+364,primavera,soleado,18.9,relax_en_casa,relajado,1
+365,otonio,viento,18.3,deporte,romantico,1
+366,otonio,viento,16.7,relax_en_casa,creativo,1
+367,otonio,fresco,12.1,cita_romantica,creativo,4
+368,invierno,nieve,-4.0,gimnasio,creativo,2
+369,otonio,lluvia,9.3,trabajo_oficina,relajado,3
+370,primavera,soleado,24.0,comida_cena,energico,3
+371,otonio,viento,15.4,gimnasio,formal,2
+372,invierno,lluvioso,2.2,gimnasio,formal,1
+373,primavera,soleado,13.9,cita_romantica,romantico,4
+374,verano,alta_humedad,32.2,casual_paseo,creativo,1
+375,otonio,viento,19.3,trabajo_oficina,cansado,4
+376,invierno,frio,-0.7,casual_paseo,energico,3
+377,invierno,lluvioso,-4.6,senderismo,relajado,1
+378,invierno,lluvioso,10.5,cita_romantica,creativo,5
+379,otonio,fresco,20.3,gimnasio,formal,1
+380,primavera,templado,24.5,viaje,formal,3
+381,verano,alta_humedad,27.4,evento_formal,energico,5
+382,invierno,nieve,-0.3,fiesta_nocturna,romantico,4
+383,verano,caluroso,25.4,evento_formal,creativo,3
+384,otonio,fresco,18.9,relax_en_casa,cansado,1
+385,invierno,lluvioso,6.7,senderismo,energico,1
+386,otonio,fresco,16.0,viaje,cansado,2
+387,invierno,frio,7.6,relax_en_casa,cansado,1
+388,otonio,viento,15.6,deporte,creativo,1
+389,otonio,lluvia,19.2,cita_romantica,romantico,3
+390,otonio,fresco,17.8,fiesta_nocturna,creativo,4
+391,verano,alta_humedad,28.8,senderismo,relajado,1
+392,otonio,viento,15.5,casual_paseo,cansado,1
+393,otonio,fresco,8.6,viaje,relajado,2
+394,invierno,nieve,2.1,casual_paseo,romantico,2
+395,primavera,lluvia ligera,16.0,relax_en_casa,cansado,1
+396,invierno,frio,-1.2,cita_romantica,energico,5
+397,invierno,lluvioso,1.1,trabajo_oficina,energico,3
+398,verano,caluroso,33.9,trabajo_oficina,romantico,2
+399,invierno,lluvioso,0.4,relax_en_casa,romantico,1
+400,otonio,viento,21.4,evento_formal,formal,5
+401,verano,alta_humedad,36.5,deporte,energico,2
+402,invierno,frio,9.7,comida_cena,relajado,4
+403,verano,caluroso,37.0,deporte,relajado,2
+404,verano,alta_humedad,33.6,senderismo,romantico,1
+405,primavera,templado,12.6,deporte,cansado,2
+406,otonio,fresco,15.3,relax_en_casa,cansado,2
+407,otonio,fresco,11.1,casual_paseo,creativo,2
+408,primavera,lluvia ligera,18.0,relax_en_casa,creativo,1
+409,otonio,fresco,21.5,trabajo_oficina,relajado,2
+410,invierno,lluvioso,0.9,gimnasio,cansado,1
+411,otonio,lluvia,19.7,cita_romantica,energico,4
+412,primavera,templado,18.8,gimnasio,cansado,1
+413,otonio,fresco,14.7,gimnasio,energico,1
+414,verano,soleado,36.7,deporte,energico,2
+415,invierno,nieve,6.1,trabajo_oficina,romantico,4
+416,invierno,frio,11.0,cita_romantica,formal,3
+417,invierno,lluvioso,-3.3,gimnasio,formal,1
+418,primavera,templado,24.6,viaje,relajado,3
+419,otonio,fresco,21.5,viaje,romantico,3
+420,verano,caluroso,23.0,casual_paseo,romantico,3
+421,otonio,viento,21.8,cita_romantica,romantico,4
+422,invierno,frio,-3.6,evento_formal,creativo,5
+423,primavera,lluvia ligera,21.7,deporte,formal,1
+424,primavera,lluvia ligera,21.2,viaje,formal,2
+425,verano,soleado,24.2,deporte,romantico,1
+426,primavera,soleado,13.8,casual_paseo,formal,2
+427,primavera,lluvia ligera,25.0,comida_cena,cansado,4
+428,primavera,lluvia ligera,12.7,relax_en_casa,relajado,2
+429,primavera,soleado,19.3,senderismo,relajado,1
+430,verano,soleado,24.3,cita_romantica,relajado,3
+431,primavera,lluvia ligera,24.1,senderismo,romantico,2
+432,otonio,fresco,14.4,deporte,relajado,1
+433,verano,alta_humedad,29.2,deporte,creativo,2
+434,primavera,soleado,16.6,evento_formal,energico,4
+435,invierno,lluvioso,3.5,gimnasio,relajado,1
+436,invierno,frio,10.0,deporte,cansado,2
+437,invierno,frio,9.2,relax_en_casa,formal,2
+438,otonio,viento,16.9,evento_formal,creativo,5
+439,invierno,lluvioso,-1.3,casual_paseo,romantico,1
+440,verano,soleado,23.6,viaje,cansado,1
+441,verano,caluroso,24.8,senderismo,romantico,2
+442,invierno,lluvioso,4.1,trabajo_oficina,formal,2
+443,primavera,lluvia ligera,17.7,fiesta_nocturna,romantico,4
+444,invierno,frio,1.5,fiesta_nocturna,cansado,4
+445,primavera,templado,12.5,cita_romantica,cansado,5
+446,invierno,frio,-0.5,cita_romantica,cansado,3
+447,primavera,lluvia ligera,16.7,fiesta_nocturna,relajado,4
+448,verano,soleado,28.5,evento_formal,energico,3
+449,otonio,viento,10.1,fiesta_nocturna,cansado,5
+450,invierno,frio,-2.8,senderismo,energico,2
+451,primavera,lluvia ligera,16.0,cita_romantica,cansado,5
+452,otonio,viento,19.6,senderismo,romantico,1
+453,invierno,frio,-0.1,evento_formal,energico,5
+454,primavera,templado,14.7,relax_en_casa,relajado,2
+455,invierno,lluvioso,-2.7,gimnasio,formal,2
+456,primavera,lluvia ligera,16.7,cita_romantica,romantico,3
+457,verano,alta_humedad,36.4,fiesta_nocturna,romantico,5
+458,primavera,templado,21.3,relax_en_casa,cansado,2
+459,otonio,lluvia,16.2,viaje,relajado,2
+460,otonio,fresco,18.6,comida_cena,creativo,4
+461,invierno,nieve,-3.5,gimnasio,romantico,2
+462,otonio,fresco,21.0,viaje,romantico,2
+463,otonio,fresco,16.4,casual_paseo,relajado,2
+464,otonio,viento,10.4,comida_cena,formal,4
+465,verano,caluroso,26.7,deporte,romantico,1
+466,primavera,templado,24.6,fiesta_nocturna,cansado,4
+467,invierno,lluvioso,4.7,casual_paseo,relajado,1
+468,verano,alta_humedad,23.7,gimnasio,relajado,2
+469,invierno,lluvioso,10.5,comida_cena,romantico,4
+470,verano,alta_humedad,27.1,viaje,creativo,2
+471,otonio,lluvia,11.9,evento_formal,relajado,3
+472,otonio,viento,13.3,viaje,relajado,2
+473,invierno,nieve,-3.9,evento_formal,romantico,5
+474,otonio,viento,21.6,relax_en_casa,cansado,2
+475,otonio,lluvia,9.3,trabajo_oficina,relajado,2
+476,verano,alta_humedad,36.2,cita_romantica,creativo,4
+477,verano,alta_humedad,22.5,deporte,cansado,2
+478,invierno,frio,4.6,gimnasio,creativo,2
+479,invierno,frio,10.7,relax_en_casa,cansado,1
+480,verano,caluroso,25.3,viaje,energico,2
+481,verano,caluroso,34.5,gimnasio,energico,2
+482,otonio,fresco,11.0,senderismo,creativo,1
+483,primavera,templado,19.1,cita_romantica,creativo,3
+484,verano,alta_humedad,28.0,gimnasio,formal,2
+485,verano,caluroso,30.6,evento_formal,energico,3
+486,verano,caluroso,32.0,gimnasio,energico,2
+487,invierno,lluvioso,-0.2,casual_paseo,creativo,3
+488,invierno,lluvioso,4.1,casual_paseo,cansado,3
+489,verano,caluroso,25.1,deporte,romantico,2
+490,otonio,lluvia,17.9,cita_romantica,creativo,5
+491,otonio,fresco,13.2,trabajo_oficina,energico,2
+492,otonio,viento,13.2,casual_paseo,cansado,3
+493,primavera,lluvia ligera,13.1,relax_en_casa,creativo,2
+494,verano,soleado,25.8,evento_formal,cansado,4
+495,otonio,viento,9.6,senderismo,formal,2
+496,otonio,viento,20.3,relax_en_casa,formal,1
+497,otonio,fresco,21.9,evento_formal,romantico,4
+498,otonio,viento,13.5,fiesta_nocturna,relajado,5
+499,verano,caluroso,30.3,viaje,relajado,3
+500,otonio,fresco,13.9,viaje,relajado,1
+501,primavera,lluvia ligera,19.1,senderismo,romantico,1
+502,verano,soleado,24.2,comida_cena,energico,3
+503,verano,alta_humedad,35.1,senderismo,cansado,2
+504,primavera,lluvia ligera,21.7,evento_formal,energico,4
+505,otonio,fresco,12.5,fiesta_nocturna,romantico,5
+506,invierno,frio,-3.1,relax_en_casa,energico,1
+507,invierno,lluvioso,-3.9,gimnasio,energico,1
+508,primavera,templado,22.1,gimnasio,cansado,2
+509,otonio,fresco,13.1,comida_cena,creativo,2
+510,verano,alta_humedad,34.2,viaje,cansado,3
+511,invierno,nieve,7.1,comida_cena,cansado,4
+512,verano,soleado,22.9,fiesta_nocturna,relajado,5
+513,otonio,viento,19.2,trabajo_oficina,romantico,2
+514,primavera,lluvia ligera,22.3,trabajo_oficina,romantico,3
+515,verano,caluroso,27.5,viaje,formal,3
+516,invierno,lluvioso,9.3,deporte,romantico,1
+517,verano,soleado,37.5,senderismo,creativo,2
+518,otonio,lluvia,10.0,comida_cena,romantico,2
+519,otonio,fresco,19.8,casual_paseo,energico,1
+520,invierno,frio,9.1,trabajo_oficina,romantico,2
+521,otonio,viento,11.1,viaje,cansado,1
+522,primavera,soleado,22.1,fiesta_nocturna,romantico,5
+523,invierno,nieve,5.9,casual_paseo,relajado,3
+524,verano,caluroso,35.7,senderismo,energico,1
+525,invierno,nieve,-2.2,senderismo,cansado,1
+526,verano,caluroso,34.4,trabajo_oficina,cansado,3
+527,primavera,lluvia ligera,19.3,casual_paseo,creativo,1
+528,verano,alta_humedad,24.2,cita_romantica,creativo,3
+529,invierno,lluvioso,12.0,deporte,cansado,2
+530,verano,soleado,31.0,gimnasio,cansado,2
+531,invierno,frio,3.9,fiesta_nocturna,cansado,4
+532,invierno,frio,2.1,viaje,creativo,1
+533,otonio,viento,17.4,deporte,relajado,1
+534,primavera,soleado,13.4,cita_romantica,energico,3
+535,verano,caluroso,22.6,trabajo_oficina,formal,4
+536,primavera,templado,23.1,casual_paseo,relajado,2
+537,otonio,lluvia,18.1,gimnasio,cansado,2
+538,otonio,fresco,21.1,evento_formal,relajado,3
+539,otonio,viento,19.5,evento_formal,cansado,3
+540,primavera,lluvia ligera,14.5,comida_cena,formal,3
+541,invierno,nieve,6.5,deporte,energico,1
+542,verano,soleado,26.7,cita_romantica,cansado,5
+543,primavera,lluvia ligera,21.7,deporte,creativo,1
+544,verano,alta_humedad,33.0,viaje,formal,2
+545,primavera,templado,18.6,cita_romantica,relajado,4
+546,verano,soleado,23.0,casual_paseo,formal,2
+547,otonio,viento,10.5,relax_en_casa,creativo,2
+548,invierno,nieve,6.3,comida_cena,relajado,2
+549,primavera,soleado,21.6,comida_cena,creativo,4
+550,invierno,frio,-1.5,relax_en_casa,creativo,1
+551,otonio,viento,17.6,senderismo,relajado,2
+552,primavera,templado,15.8,deporte,formal,2
+553,otonio,lluvia,8.9,deporte,romantico,2
+554,verano,alta_humedad,25.7,fiesta_nocturna,relajado,3
+555,primavera,lluvia ligera,14.1,relax_en_casa,energico,1
+556,verano,caluroso,33.1,relax_en_casa,relajado,1
+557,otonio,fresco,15.2,senderismo,formal,2
+558,verano,soleado,32.9,relax_en_casa,relajado,1
+559,verano,soleado,25.8,gimnasio,relajado,2
+560,primavera,templado,22.4,relax_en_casa,relajado,1
+561,verano,alta_humedad,35.7,cita_romantica,formal,4
+562,otonio,viento,8.8,fiesta_nocturna,relajado,3
+563,invierno,nieve,5.8,comida_cena,energico,3
+564,otonio,viento,11.6,comida_cena,energico,2
+565,otonio,viento,18.4,fiesta_nocturna,cansado,3
+566,otonio,viento,16.6,trabajo_oficina,romantico,4
+567,verano,caluroso,25.2,gimnasio,formal,1
+568,verano,soleado,24.7,gimnasio,relajado,1
+569,verano,caluroso,23.4,evento_formal,energico,5
+570,invierno,frio,1.7,casual_paseo,creativo,2
+571,primavera,soleado,18.7,relax_en_casa,relajado,2
+572,primavera,templado,14.9,comida_cena,creativo,3
+573,primavera,lluvia ligera,12.7,gimnasio,formal,2
+574,verano,caluroso,32.9,trabajo_oficina,romantico,4
+575,verano,soleado,32.6,viaje,formal,3
+576,otonio,fresco,13.3,senderismo,formal,1
+577,invierno,lluvioso,10.4,relax_en_casa,relajado,1
+578,otonio,viento,14.2,cita_romantica,energico,4
+579,verano,caluroso,25.0,evento_formal,creativo,3
+580,verano,alta_humedad,31.2,cita_romantica,cansado,5
+581,primavera,lluvia ligera,17.7,trabajo_oficina,relajado,2
+582,primavera,lluvia ligera,22.0,trabajo_oficina,energico,4
+583,primavera,lluvia ligera,15.2,gimnasio,creativo,1
+584,verano,caluroso,37.2,evento_formal,relajado,4
+585,verano,caluroso,34.7,viaje,romantico,3
+586,invierno,nieve,7.5,relax_en_casa,relajado,1
+587,verano,alta_humedad,23.4,deporte,cansado,1
+588,primavera,soleado,22.2,evento_formal,creativo,5
+589,primavera,lluvia ligera,14.4,senderismo,romantico,2
+590,primavera,templado,20.6,deporte,cansado,2
+591,invierno,lluvioso,8.6,evento_formal,creativo,4
+592,invierno,frio,-3.7,viaje,romantico,1
+593,verano,caluroso,32.4,gimnasio,creativo,1
+594,invierno,frio,1.2,relax_en_casa,energico,1
+595,invierno,lluvioso,1.3,gimnasio,cansado,2
+596,primavera,lluvia ligera,24.9,deporte,cansado,2
+597,verano,caluroso,31.9,trabajo_oficina,relajado,2
+598,invierno,nieve,2.9,fiesta_nocturna,energico,5
+599,verano,alta_humedad,25.7,relax_en_casa,cansado,2
+600,invierno,lluvioso,10.9,viaje,relajado,3
