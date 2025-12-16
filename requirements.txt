@@ -6,3 +6,5 @@ Flask-Cors
 python-dotenv
 gunicorn
 pymysql
+# Gemini API
+google-generativeai==0.3.2
